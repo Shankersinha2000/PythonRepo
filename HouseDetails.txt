@@ -1,0 +1,9 @@
+HouseDetails
+
+Bangalore
+Delhi
+Patna
+Pune
+Bombay
+Chennai
+Kolkata
