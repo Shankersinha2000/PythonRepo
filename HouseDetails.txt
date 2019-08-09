@@ -8,3 +8,6 @@ Bombay
 Chennai
 Kolkata
 Allahabad
+Bangalore - KasturiNagar
+Bangalore - ElectronicCity
+Bangalore - WhiteField
